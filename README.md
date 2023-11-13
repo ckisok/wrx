@@ -1,3 +1,22 @@
 # wrx 魏如雪
 
 与[夏如雯](https://github.com/ckisok/xrw)是好朋友
+
+
+## 安装
+下载 wrx.zip 并解压，然后打开 Chrome 插件管理页面(chrome://extensions/)，如下：
+
+![image](https://github.com/ckisok/wrx/assets/143160104/960af75a-5787-44af-96b4-b08ee1ec77ec)
+
+打开右上角的开发者模式，然后左上角的 **Load unpacked** 按钮用于安装这个 **魏如雪** 未打包插件。
+
+
+## 使用
+打开微信读书阅读页面，打开目录弹框，你需要把这些红点点都点成绿色的，如下所示：
+
+![image](https://github.com/ckisok/wrx/assets/143160104/7b2127ce-b303-4d05-bcf9-f5a3300a47e8)
+
+
+## 导出
+
+在阅读页面的右下角，点击 **导出本书数据** 按钮，即可将您已阅读部分数据导出(此数据是加密数据，需要她的好朋友解密)。
