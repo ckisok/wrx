@@ -10,7 +10,7 @@
 
 
 ## 安装
-从 Release 页面下载最新的 wrx.zip 并解压，然后打开 Chrome 插件管理页面(chrome://extensions/)，如下：
+从 [Release 页面](https://github.com/ckisok/wrx/releases)下载最新的 wrx.zip 并解压，然后打开 Chrome 插件管理页面(chrome://extensions/)，如下：
 
 ![image](https://github.com/ckisok/wrx/assets/143160104/960af75a-5787-44af-96b4-b08ee1ec77ec)
 
